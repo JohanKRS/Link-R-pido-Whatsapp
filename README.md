@@ -10,3 +10,5 @@ Este projeto consiste em uma página web que permite ao usuário inserir um núm
 - Clone o repositório ou faça o download do projeto
 - Copie todos os arquivos para um servidor web
 - Acesse o arquivo index.php no navegador para começar a usar a aplicação
+
+Este projeto foi criado como um exercício de programação e não tem nenhuma afiliação com a empresa Meta ou o WhatsApp. Ele é uma demonstração de como é possível utilizar as tecnologias web para criar uma ferramenta simples e útil para o usuário final.
